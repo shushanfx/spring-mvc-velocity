@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<toolbox>
+    <tool>
+        <key>StringUtils</key>
+        <class>org.apache.commons.lang.StringUtils</class>
+        <scope>application</scope>
+    </tool>
+    <tool>
+        <key>NumberUtils</key>
+        <class>org.apache.commons.lang.math.NumberUtils</class>
+        <scope>application</scope>
+    </tool>
+    <tool>
+        <key>DateUtils</key>
+        <class>org.apache.commons.lang.time.DateUtils</class>
+        <scope>application</scope>
+    </tool>
+    <tool>
+        <key>DateTool</key>
+        <class>org.apache.velocity.tools.generic.DateTool</class>
+        <scope>application</scope>
+    </tool>
+    <tool>
+        <key>NumberTool</key>
+        <class>org.apache.velocity.tools.generic.NumberTool</class>
+        <scope>application</scope>
+    </tool>
+</toolbox>

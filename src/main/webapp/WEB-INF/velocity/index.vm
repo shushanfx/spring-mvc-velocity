@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome</title>
+</head>
+<body>
+    Convert String to int : $!{NumberUtils.toInt("123")}
+    <br />
+    path: #springUrl("/index")
+    <br />
+    Now: $!{DateTool.getSystemDate()}
+</body>
+</html>
